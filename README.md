@@ -1,5 +1,5 @@
 # nlp-20
-Assignments and project for prof. Torroni NLP class, AI Unibo 2020. 
+Assignments for prof. Torroni NLP class, AI Unibo 2020.
 
 - Text Preprocessing and Sentiment Classification  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/buoi/nlp-20/blob/main/Assignment1.ipynb)
